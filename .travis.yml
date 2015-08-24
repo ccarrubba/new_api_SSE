@@ -1,10 +1,4 @@
 language: java
- 
+
 install:
  - ant test
- 
-notifications:
-  email:
-    recipients:
-        - carla.carrubba@ct.infn.it
-        
